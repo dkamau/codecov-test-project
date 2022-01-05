@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qm7ce7f0dtG40rMOI2AyQQ6xFOQH+a21SUi5iqwjn8+uYMwQeinRU9IjFkIPCO6jH5g+2Q5chswAEpy+fbaMug==",
+  "dgSpecHash": "bMAF0y+QZDHj5iNQZDFW+lEZVQZoiG6CRL9mcOHS9SoKTiJNXy4EyQyqUpKMns1NmH+idk3nX1YHy0r6F33MdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+  "projectFilePath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

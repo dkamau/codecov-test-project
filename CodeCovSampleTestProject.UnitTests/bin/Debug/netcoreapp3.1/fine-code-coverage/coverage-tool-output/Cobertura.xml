@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.6666666666666666" branch-rate="0.5" lines-covered="10" lines-valid="15" branches-covered="1" branches-valid="2" complexity="5" version="0" timestamp="1641395555">
+<coverage line-rate="0.6666666666666666" branch-rate="0.5" lines-covered="10" lines-valid="15" branches-covered="1" branches-valid="2" complexity="5" version="0" timestamp="1641420900">
   <sources>
-    <source>C:\Users\denni\</source>
+    <source>D:\Work\UP\codecov-test-project\</source>
+    <source>C:\</source>
   </sources>
   <packages>
     <package name="CodeCovSampleTestProject" line-rate="0.5555555555555556" branch-rate="0.5" complexity="3">
       <classes>
-        <class name="CodeCovSampleTestProject.MyTestClass" filename="C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\MyTestClass.cs" line-rate="0.8333333333333334" branch-rate="0.5" complexity="2">
+        <class name="CodeCovSampleTestProject.MyTestClass" filename="D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\MyTestClass.cs" line-rate="0.8333333333333334" branch-rate="0.5" complexity="2">
           <methods>
             <method name="CanVote" signature="(...)" line-rate="0.8333333333333334" branch-rate="0.5" complexity="2">
               <lines>
                 <line number="8" hits="1" branch="false" />
                 <line number="9" hits="1" branch="false" />
                 <line number="11" hits="1" branch="true" condition-coverage="50% (1/2)" />
-                <line number="12" hits="0" branch="false" />
-                <line number="14" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
+                <line number="14" hits="0" branch="false" />
                 <line number="15" hits="1" branch="false" />
               </lines>
             </method>
@@ -24,12 +25,12 @@
             <line number="8" hits="1" branch="false" />
             <line number="9" hits="1" branch="false" />
             <line number="11" hits="1" branch="true" condition-coverage="50% (1/2)" />
-            <line number="12" hits="0" branch="false" />
-            <line number="14" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
+            <line number="14" hits="0" branch="false" />
             <line number="15" hits="1" branch="false" />
           </lines>
         </class>
-        <class name="CodeCovSampleTestProject.Program" filename="C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+        <class name="CodeCovSampleTestProject.Program" filename="D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
             <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -61,9 +62,9 @@
             <line number="4" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="CodeCovSampleTestProject.UnitTests.TestClass_UnitTests" filename="C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject.UnitTests\TestClass_UnitTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="CodeCovSampleTestProject.UnitTests.TestClass_UnitTests" filename="D:\Work\UP\codecov-test-project\CodeCovSampleTestProject.UnitTests\TestClass_UnitTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
-            <method name="CanVote_RetunrsFasle_IfUnder18" signature="()" line-rate="1" branch-rate="1" complexity="1">
+            <method name="CanVote_RetunrsTrue_IfOver18" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="10" hits="1" branch="false" />
                 <line number="12" hits="1" branch="false" />

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+      "projectUniqueName": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
       "projectName": "CodeCovSampleTestProject",
-      "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+      "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
       "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\obj\\",
+      "outputPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
