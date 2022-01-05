@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lRtxbYmPWnaCjfxyOBhZhtOT+m7Td8C2SNQ32WbqMNy5y4MVGYGZ+Wtc4vZFiuY2y065TMQzdgXbch1aHJEEzA==",
+  "dgSpecHash": "uAZ62AJ2YJsxZyaKppc/f2oH5JnHynYvvLOMqmmFHPdQrjNFzezzmVnS5wCegs4xWR26LslWX1r0jJoRdFi6cA==",
   "success": true,
   "projectFilePath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
   "expectedPackageFiles": [
