@@ -12,7 +12,7 @@ namespace CodeCovSampleTestProject.UnitTests
             MyTestClass myTestClass = new MyTestClass();
 
             // Act 
-            var result = myTestClass.CanVote(DateTime.Now.AddYears(-17));
+            var result = myTestClass.CanVote(DateTime.Now.AddYears(-18));
 
             // Assert
             Assert.True(result);
