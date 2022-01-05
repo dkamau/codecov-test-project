@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {}
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
+        "projectUniqueName": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
         "projectName": "CodeCovSampleTestProject.UnitTests",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
+        "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
         "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\obj\\",
+        "outputPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
-                "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj"
+              "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
+                "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+        "projectUniqueName": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
         "projectName": "CodeCovSampleTestProject",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+        "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
         "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\obj\\",
+        "outputPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

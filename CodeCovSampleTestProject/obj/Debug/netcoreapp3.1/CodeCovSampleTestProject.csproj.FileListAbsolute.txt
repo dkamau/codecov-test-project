@@ -10,3 +10,16 @@ C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\ob
 C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.dll
 C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.pdb
 C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.genruntimeconfig.cache
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.exe
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.deps.json
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.runtimeconfig.json
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.runtimeconfig.dev.json
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.dll
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.pdb
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.csprojAssemblyReference.cache
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.AssemblyInfoInputs.cache
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.AssemblyInfo.cs
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.csproj.CoreCompileInputs.cache
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.dll
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.pdb
+D:\Work\UP\codecov-test-project\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.genruntimeconfig.cache
