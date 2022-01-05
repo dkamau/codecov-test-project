@@ -30,6 +30,20 @@ namespace CodeCovSampleTestProject.UnitTests
             // Assert
             Assert.False(result);
         }
+
+        [Fact]
+        public void ExceptionTest()
+        {
+            // Arrange
+            MyTestClass myTestClass = new MyTestClass();
+
+            // Act 
+            Action action = () => myTestClass.CanVote(null);
+            NullReferenceException exception = Assert.Throws<NullReferenceException>(action);
+
+            // Assert
+            Assert.Equal("DOB", exception.Message);
+        }
     }
 }
 
