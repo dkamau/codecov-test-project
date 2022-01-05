@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {}
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
+        "projectUniqueName": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
         "projectName": "CodeCovSampleTestProject.UnitTests",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
+        "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
         "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\obj\\",
+        "outputPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,18 +23,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
-                "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj"
+              "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
+                "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj"
               }
             }
           }
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
+    "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+        "projectUniqueName": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
         "projectName": "CodeCovSampleTestProject",
-        "projectPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
+        "projectPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\CodeCovSampleTestProject.csproj",
         "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject\\obj\\",
+        "outputPath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -104,15 +104,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -123,8 +123,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

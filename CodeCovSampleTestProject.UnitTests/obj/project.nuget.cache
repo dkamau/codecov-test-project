@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcS3gy0eCRsTh1oNVYwhJTMgywV8DzoV3oblh+7fYPVNai9C66ZWIzEaAW7J78VcqKFqfkOm8i7pIqqA3r0eAA==",
+  "dgSpecHash": "uAZ62AJ2YJsxZyaKppc/f2oH5JnHynYvvLOMqmmFHPdQrjNFzezzmVnS5wCegs4xWR26LslWX1r0jJoRdFi6cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denni\\source\\repos\\CodeCovSampleTestProject\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
+  "projectFilePath": "D:\\Work\\UP\\codecov-test-project\\CodeCovSampleTestProject.UnitTests\\CodeCovSampleTestProject.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denni\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
