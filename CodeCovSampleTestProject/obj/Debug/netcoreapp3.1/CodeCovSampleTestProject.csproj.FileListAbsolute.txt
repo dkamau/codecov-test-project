@@ -1,0 +1,12 @@
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.exe
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.deps.json
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.runtimeconfig.json
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.runtimeconfig.dev.json
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.dll
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\bin\Debug\netcoreapp3.1\CodeCovSampleTestProject.pdb
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.AssemblyInfo.cs
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.dll
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.pdb
+C:\Users\denni\source\repos\CodeCovSampleTestProject\CodeCovSampleTestProject\obj\Debug\netcoreapp3.1\CodeCovSampleTestProject.genruntimeconfig.cache
