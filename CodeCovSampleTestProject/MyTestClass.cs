@@ -12,5 +12,21 @@ namespace CodeCovSampleTestProject
             else
                 return false;
         }
+
+        public bool CanNotVote(DateTime dateOfBirth)
+        {
+            int age = (int)(DateTime.Now.Subtract(dateOfBirth).TotalDays / 365.25);
+            if (age >= 18)
+                return false;
+            else
+                return true;
+        }
+
+        public int CalculateAge(DateTime dateOfBirth)
+        {
+            int age = (int)(DateTime.Now.Subtract(dateOfBirth).TotalDays / 365.25);
+
+            return age;
+        }
     }
 }
